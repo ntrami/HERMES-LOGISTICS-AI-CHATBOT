@@ -59,7 +59,7 @@ logs/
 
 # Evaluation results
 eval_results.txt
-result.pdf
+# result.pdf  # Uncommented to allow pushing PDF file
 
 # Docker
 .dockerignore
